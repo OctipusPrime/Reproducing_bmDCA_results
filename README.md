@@ -12,4 +12,6 @@
 
 As shown in the pariplot below, no correlation was found between values provided by the authors, energies calculated with my scripts and energies given by arDCA on the same dataset. I have not been able to identify what could be causing this apparent unrelatedness of these values, which should theoretically capture the same information. Please let me know if you see where the problem lies. 
 
+![bm_ar_comparison](https://user-images.githubusercontent.com/77053094/222952409-740db092-418e-44a7-8d2d-fd62a2473eb3.png)
+
 This approach and project were subsequently terminated. 
